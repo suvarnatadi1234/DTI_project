@@ -1,4 +1,4 @@
-PROJECT REPORT: PRAGATI CAMPUS NAVIGATOR
+PROJECT REPORT: SMAART CAMPUS NAVIGATOR WEB APP
 1. Introduction
 1.1 Purpose
 The Pragati Campus Navigator is an interactive, web-based mapping application designed to streamline navigation within the college premises. It provides a digital alternative to static physical signboards, offering real-time location tracking and pathfinding.
