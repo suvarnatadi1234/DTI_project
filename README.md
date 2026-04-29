@@ -120,7 +120,7 @@ The Pragati Campus Navigator demonstrates how open-source mapping technologies c
 
 |Name      | Role          | Responsibilities & Contributions|
 |---------|---------------|---------------------------------------|
-|K. Surekha| Lead Developer| Core JavaScript logic, Leaflet.js integration, coordinate mapping|
-|T. Suvarna| UI/UX Designer| CSS styling, dashboard design, mobile responsiveness|
-|P. Akshaya| Research & QA | GPS data collection, documentation, testing|
+|K. Surekha | Lead Developer| Core JavaScript logic, Leaflet.js integration, coordinate mapping|
+|T. Suvarna | UI/UX Designer| CSS styling, dashboard design, mobile responsiveness|
+|P. Akshaya | Research & QA | GPS data collection, documentation, testing|
 
