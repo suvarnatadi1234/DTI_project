@@ -8,7 +8,7 @@ The Pragati Campus Navigator is an interactive, web-based mapping application de
 
 1.2 Scope
 
-This application is intended for:
+This application is intended for: 
 
 - Students
 - Faculty
