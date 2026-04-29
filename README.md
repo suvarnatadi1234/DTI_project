@@ -77,22 +77,24 @@ The landing page includes a maroon-themed UI with four main features:
 
 5. Data Dictionary
 
-Landmark| Latitude| Longitude
-Library| 17.0836| 82.0536
-Main Block| 17.0836| 82.0534
-Mechanical Block| 17.0836| 82.0538
-Canteen| 17.0833| 82.0536
-AIML Block| 17.0839| 82.0538
+|Landmark        | Latitude| Longitude|
+|----------------|---------|----------|
+|Library         | 17.0836 | 82.0536  |
+|Main Block      | 17.0836 | 82.0534  |
+|Mechanical Block| 17.0836 | 82.0538  |
+|Canteen| 17.0833| 82.0536 |
+|AIML Block      | 17.0839 | 82.0538  |
 
 
 
 6. Testing & Validation
 
-Test Case| Action| Expected Result| Status
-Initialization| Open App| Dashboard loads with maroon theme| Pass
-Search Function| Type "Library"| Map zooms into Library coordinates| Pass
-Pathfinding| Library to Canteen| A blue line appears between the two| Pass
-Geolocation| Click "Locate"| Blue dot appears at current user position| Pass
+|Test Case      | Action            | Expected Result                          | Status|
+|---------------|-------------------|------------------------------------------|-------|
+|Initialization | Open App          | Dashboard loads with maroon theme        | Pass  |
+|Search Function| Type "Library"    | Map zooms into Library coordinates       | Pass  |
+|Pathfinding    | Library to Canteen| A blue line appears between the two      | Pass  |
+|Geolocation    | Click "Locate"    | Blue dot appears at current user position| Pass  |
 
 
 
@@ -116,8 +118,9 @@ The Pragati Campus Navigator demonstrates how open-source mapping technologies c
 
 9. Project Team & Contributions
 
-Name| Role| Responsibilities & Contributions
-K. Surekha| Lead Developer| Core JavaScript logic, Leaflet.js integration, coordinate mapping
-T. Suvarna| UI/UX Designer| CSS styling, dashboard design, mobile responsiveness
-P. Akshaya| Research & QA| GPS data collection, documentation, testing
+|Name      | Role          | Responsibilities & Contributions|
+|---------|---------------|---------------------------------------|
+|K. Surekha| Lead Developer| Core JavaScript logic, Leaflet.js integration, coordinate mapping|
+|T. Suvarna| UI/UX Designer| CSS styling, dashboard design, mobile responsiveness|
+|P. Akshaya| Research & QA | GPS data collection, documentation, testing|
 
