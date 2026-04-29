@@ -76,9 +76,7 @@ The Pragati Campus Navigator successfully demonstrates how open-source mapping t
 
 8. References
 Leaflet.js Documentation: leafletjs.com
-
 OpenStreetMap Wiki: openstreetmap.org
-
 MDN Web Docs: Geolocation API.
 9. Project Team & Contributions
 Name,Role,Responsibilities & Contributions
